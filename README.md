@@ -31,10 +31,7 @@ You can log in to the admin dashboard using the test account:
    ```bash
    git clone https://github.com/GrigoriSaki/PowerGym.git
    ```
-
-2. Create a config.js file in the js folder based on config.example.js, and fill in your own Supabase   project URL and anon key.
-
-3. Open index.html using a local server (like Live Server in VS Code).
+2. Open index.html using a local server (like Live Server in VS Code).
 
 ## 📸 Screenshots
 
