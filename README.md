@@ -29,7 +29,7 @@ You can log in to the admin dashboard using the test account:
 ## ⚙️ Setup & Installation (Local Development)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GrigoriSaki/PowerGym.git
+   git clone https://github.com/gwisniowski/PowerGym.git
    ```
 2. Open index.html using a local server (like Live Server in VS Code).
 
